@@ -28,8 +28,8 @@ const personalProjectsData = [
     title: "Spotify Clone",
     description:
       "Frontend clone of Spotify with functional components, music UI, and playlist display.",
-    url: "",
-    status: "finished",
+    url: "https://spotify-clone-p2bm.onrender.com",
+    status: "live",
     icon: "🎵",
     tags: ["React", "CSS"],
     gradient: "linear-gradient(135deg, #10b981, #059669)",
@@ -72,7 +72,7 @@ const personalProjectsData = [
     title: "AI Sentiment Analyzer",
     description:
       "A simple AI-based sentiment analyzer with a React frontend and Node.js backend.",
-    url: "",
+    url: "https://sentiment-analysis-web-ste.onrender.com",
     status: "live",
     icon: "🤖",
     tags: ["React", "Node.js", "AI/ML"],
