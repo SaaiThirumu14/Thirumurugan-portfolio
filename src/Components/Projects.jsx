@@ -1,4 +1,3 @@
-import { Button } from "../Components/Button";
 
 const personalProjectsData = [
   {
